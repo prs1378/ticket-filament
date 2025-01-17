@@ -1,10 +1,10 @@
 <?php
 
-namespace YourVendor\FilamentTickets;
+namespace prs1378\FilamentTickets;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
-use YourVendor\FilamentTickets\Resources\TicketResource;
+use prs1378\FilamentTickets\Resources\TicketResource;
 
 class FilamentTicketsPlugin implements Plugin
 {
