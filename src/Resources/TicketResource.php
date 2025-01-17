@@ -1,12 +1,12 @@
 <?php
 
-namespace YourVendor\FilamentTickets\Resources;
+namespace prs1378\FilamentTickets\Resources;
 
 use Filament\Forms;
 use Filament\Resources\Resource;
 use Filament\Tables;
-use YourVendor\FilamentTickets\Models\Ticket;
-use YourVendor\FilamentTickets\Resources\TicketResource\Pages;
+use prs1378\FilamentTickets\Models\Ticket;
+use prs1378\FilamentTickets\Resources\TicketResource\Pages;
 
 class TicketResource extends Resource
 {
