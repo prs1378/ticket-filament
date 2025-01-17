@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\FilamentTickets\Livewire;
+namespace prs1378\FilamentTickets\Livewire;
 
 use Livewire\Component;
 use Livewire\WithFileUploads;
