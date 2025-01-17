@@ -1,13 +1,13 @@
 <?php
 
-namespace YourVendor\FilamentTickets;
+namespace prs1378\FilamentTickets;
 
 use Filament\Support\Assets\Asset;
 use Filament\Support\Facades\FilamentAsset;
 use Filament\Support\Facades\FilamentIcon;
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
-use YourVendor\FilamentTickets\Livewire\TicketChat;
+use prs1378\FilamentTickets\Livewire\TicketChat;
 
 class FilamentTicketsServiceProvider extends ServiceProvider
 {
