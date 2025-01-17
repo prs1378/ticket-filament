@@ -17,10 +17,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "prs1378\\ticket-filament\\FilamentTicketsServiceProvider"
+                "prs1378\\TicketFilament\\FilamentTicketsServiceProvider"
             ]
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 } 
